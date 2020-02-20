@@ -1,0 +1,11 @@
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\obj\Debug\netcoreapp3.1\PrimeNumbersList.csprojAssemblyReference.cache
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\obj\Debug\netcoreapp3.1\PrimeNumbersList.AssemblyInfoInputs.cache
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\obj\Debug\netcoreapp3.1\PrimeNumbersList.AssemblyInfo.cs
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\bin\Debug\netcoreapp3.1\PrimeNumbersList.exe
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\bin\Debug\netcoreapp3.1\PrimeNumbersList.deps.json
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\bin\Debug\netcoreapp3.1\PrimeNumbersList.runtimeconfig.json
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\bin\Debug\netcoreapp3.1\PrimeNumbersList.runtimeconfig.dev.json
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\bin\Debug\netcoreapp3.1\PrimeNumbersList.dll
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\bin\Debug\netcoreapp3.1\PrimeNumbersList.pdb
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\obj\Debug\netcoreapp3.1\PrimeNumbersList.dll
+C:\Users\jfish\source\repos\PrimeNumbersList\PrimeNumbersList\obj\Debug\netcoreapp3.1\PrimeNumbersList.pdb
